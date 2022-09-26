@@ -74,7 +74,7 @@
     "kurento-client-filters": "6.18.0",
     "kurento-jsonrpc": "6.18.0",
     "promisecallback": "0.0.4",
-    "reconnect-ws": "0.1.0",
+    "reconnect-ws": "github:martinzwirner/reconnect-ws#feature/customizations",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
